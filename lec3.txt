@@ -1,0 +1,49 @@
+basic tools and techniques of marketing strategy:
+marketing growth strategies :
+        product strategy:
+
+            existing            |       new
+            product             |       product
+____________________________________________________
+    existing     market         |      product
+    market       penetration    |       development
+______________________________________________________________
+    new           market        |        diversification
+    market        development   |
+
+    existing market : target audience => target market
+        target audience is the segment to serve
+                // they are composed of potential costumers
+    
+        minimum risk: marker penetration
+        mid risk : product development and market development
+        high risk : diversification
+
+
+marketing mix:
+    includes The good or service itself and any related services like warranties and guarantees
+
+        its :
+            -segmentation
+            -target audience
+            -competitive advantage
+            -positioning
+            -4 PS
+    competitive advantage : is cost leadership and differentiation quality
+        a product has a more competitive advantage when it
+            shows  that it has more value than other products
+
+five major strategic options
+    exporting :
+        often the least risky option for entering international markets
+    licensing :
+        helps overcome barriers because the  licensee is typically locally
+        owned and brings unique insight
+
+    franchising : is attractive because of the division of responsibility
+    joint ventures : work best when strategic goals align
+                    competitive gaols diverge and they learn from each other without
+                    interfering on each others proprietary skills
+    direct ownership : is the riskiest strategy
+                        target liquidating all stores in canada due to lack of success
+                        // starting fresh investing in something doesn't exist
