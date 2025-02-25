@@ -1,0 +1,48 @@
+-on thursday exam <laptop> is needed -
+                                    -[chapter 6]-
+        product:
+            -goods
+            -services
+            -ideas
+            -experience
+        what is a new product ?
+            -new to the world products
+            -addition to an existing product line
+            -Improvements or Revisions of Existing Products
+            -product line extension
+            -revamped products
+
+        New Product Strategy Development :
+                – Define the company’s objectives, market opportunities,
+                    and overall direction for new product development.
+        Idea Generation :
+                – Brainstorm and collect potential product ideas from various sources,
+                    such as customer feedback, competitors, employees, and market trends.
+        Idea Screening :
+                – Evaluate and filter ideas to determine which ones align with business
+                    goals, market needs, and feasibility.
+        Business Analysis :
+                – Assess the potential profitability, costs,
+                    sales projections, and overall business impact of the shortlisted product ideas.
+        Product Development :
+                – Develop a prototype or a working model of the product,
+                    including design, specifications, and testing.
+        Market Testing :
+                – Test the product in a limited market or with a
+                    sample audience to gather feedback and validate assumptions before a full-scale launch.
+        Commercialization (Product Launch) :
+                – Officially introduce the product to the market,
+                    implement marketing strategies, and distribute the product to customers.
+    product adoption :
+        consumer adoption Process:
+            1 - awareness
+            2 - interest
+            3 - Evaluation
+            4 - trial
+            5 - adoption
+    types of adopters :
+        1 - enervators
+        2 - early adopters
+        3 - early majority
+        4 - late majority
+        5 - laggards
