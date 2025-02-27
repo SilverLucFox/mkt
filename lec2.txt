@@ -28,7 +28,7 @@
                             strategic planning
         Strategic planning :
             - can greatly increase the likelihood of success
-            -firms must contually undertake strategic ,planning because
+            -firms must contoally undertake strategic ,planning because
                 customer needs change and competitive threats pop up ,
                 what worked in the past will not always work in the future
         strategic plan :
@@ -40,7 +40,7 @@
         // for your own department you need to keep in mind the over all business  gaols
     
     mission Statement :
-        a mission statment provides a shared sense of ambition,
+        a mission statement provides a shared sense of ambition,
         direction and opportunity it should :
             -:be focused on a limited number of goals
                 - provides purpose and direction to the entire organization
@@ -55,12 +55,12 @@
                         :market summary
                         :SWOT analysis
                     -marketing strategy
-                        can lead to higher profet
+                        can lead to higher profit
 
         market summary:
             set the stage for situation analysis 
-            identifes trends within a specific industry 
-            gives a prespective on marketplace trends
+            identifies trends within a specific industry 
+            gives a perspective on marketplace trends
 
             BGC matrix:
                 -stars
@@ -98,7 +98,7 @@
                 -realistic
 
 
-            basic tools and tecniques of marketing strategy
+            basic tools and techniques of marketing strategy
                 segmentation target markets and positioning
                 market segmentation divides a large market into market segments
                 target market:
